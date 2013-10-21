@@ -316,6 +316,9 @@ public class Main implements Runnable {
 
 
 	public static void main(String[] args) throws IOException {
+		
+		System.out.println("Lorpedo branch testing");
+		
 		int count = 0;
 
 		if(args.length < 1) {
