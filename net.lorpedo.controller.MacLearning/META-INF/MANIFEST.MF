@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MacLearning
+Bundle-SymbolicName: net.lorpedo.controller.MacLearning
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: net.lorpedo.controller.Core;bundle-version="1.0.0",
+ org.openflow;bundle-version="1.0.3",
+ org.eclipse.osgi;bundle-version="3.9.1"
+Import-Package: org.osgi.framework
+Bundle-Activator: net.lorpedo.controller.maclearning.Activator
