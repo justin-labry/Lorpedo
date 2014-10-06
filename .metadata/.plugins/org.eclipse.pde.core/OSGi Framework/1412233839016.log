@@ -1,0 +1,126 @@
+!SESSION 2014-10-02 16:10:38.875 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -dev file:E:/[ETRI]/Java/workspace_lorpedo/.metadata/.plugins/org.eclipse.pde.core/OSGi Framework/dev.properties -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.389
+!MESSAGE Could not install bundle plugins/ch.qos.logback.classic_1.0.7.v20121108-1250.jar   Bundle "ch.qos.logback.classic" version "1.0.7.v20121108-1250" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/ch.qos.logback.classic_1.0.7.v20121108-1250.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.393
+!MESSAGE Could not install bundle plugins/ch.qos.logback.core_1.0.7.v20121108-1250.jar   Bundle "ch.qos.logback.core" version "1.0.7.v20121108-1250" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/ch.qos.logback.core_1.0.7.v20121108-1250.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.408
+!MESSAGE Could not install bundle plugins/ch.qos.logback.slf4j_1.0.7.v20121108-1250.jar   Bundle "ch.qos.logback.slf4j" version "1.0.7.v20121108-1250" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/ch.qos.logback.slf4j_1.0.7.v20121108-1250.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.415
+!MESSAGE Could not install bundle plugins/com.ibm.icu_50.1.1.v201304230130.jar   Bundle "com.ibm.icu" version "50.1.1.v201304230130" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.ibm.icu_50.1.1.v201304230130.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.418
+!MESSAGE Could not install bundle plugins/com.jcraft.jsch_0.1.50.v201310081430.jar   Bundle "com.jcraft.jsch" version "0.1.50.v201310081430" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.jcraft.jsch_0.1.50.v201310081430.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.420
+!MESSAGE Could not install bundle plugins/com.ning.async-http-client_1.6.5.20130531-2315.jar   Bundle "com.ning.async-http-client" version "1.6.5.20130531-2315" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.ning.async-http-client_1.6.5.20130531-2315.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.422
+!MESSAGE Could not install bundle plugins/com.python.pydev.analysis_3.4.1.201403181715/   Bundle "com.python.pydev.analysis" version "3.4.1.201403181715" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.python.pydev.analysis_3.4.1.201403181715/
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.426
+!MESSAGE Could not install bundle plugins/com.python.pydev.codecompletion_3.4.1.201403181715/   Bundle "com.python.pydev.codecompletion" version "3.4.1.201403181715" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.python.pydev.codecompletion_3.4.1.201403181715/
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.428
+!MESSAGE Could not install bundle plugins/com.python.pydev.debug_3.4.1.201403181715/   Bundle "com.python.pydev.debug" version "3.4.1.201403181715" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.python.pydev.debug_3.4.1.201403181715/
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.430
+!MESSAGE Could not install bundle plugins/com.python.pydev.fastparser_3.4.1.201403181715/   Bundle "com.python.pydev.fastparser" version "3.4.1.201403181715" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.python.pydev.fastparser_3.4.1.201403181715/
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.432
+!MESSAGE Could not install bundle plugins/com.python.pydev.refactoring_3.4.1.201403181715/   Bundle "com.python.pydev.refactoring" version "3.4.1.201403181715" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.python.pydev.refactoring_3.4.1.201403181715/
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.434
+!MESSAGE Could not install bundle plugins/com.python.pydev_3.4.1.201403181715/   Bundle "com.python.pydev" version "3.4.1.201403181715" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.python.pydev_3.4.1.201403181715/
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.436
+!MESSAGE Could not install bundle plugins/com.sun.el_2.2.0.v201303151357.jar   Bundle "com.sun.el" version "2.2.0.v201303151357" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.sun.el_2.2.0.v201303151357.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.438
+!MESSAGE Could not install bundle plugins/com.sun.syndication_0.9.0.v200803061811.jar   Bundle "com.sun.syndication" version "0.9.0.v200803061811" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/com.sun.syndication_0.9.0.v200803061811.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.440
+!MESSAGE Could not install bundle plugins/javaewah_0.5.6.v201307211000.jar   Bundle "javaewah" version "0.5.6.v201307211000" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javaewah_0.5.6.v201307211000.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.442
+!MESSAGE Could not install bundle plugins/javax.activation_1.1.0.v201211130549.jar   Bundle "javax.activation" version "1.1.0.v201211130549" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.activation_1.1.0.v201211130549.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.444
+!MESSAGE Could not install bundle plugins/javax.annotation_1.1.0.v201209060031.jar   Bundle "javax.annotation" version "1.1.0.v201209060031" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.annotation_1.1.0.v201209060031.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.446
+!MESSAGE Could not install bundle plugins/javax.el_2.2.0.v201303151357.jar   Bundle "javax.el" version "2.2.0.v201303151357" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.el_2.2.0.v201303151357.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.447
+!MESSAGE Could not install bundle plugins/javax.inject_1.0.0.v20091030.jar   Bundle "javax.inject" version "1.0.0.v20091030" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.inject_1.0.0.v20091030.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.449
+!MESSAGE Could not install bundle plugins/javax.jws_2.0.0.v201005080400.jar   Bundle "javax.jws" version "2.0.0.v201005080400" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.jws_2.0.0.v201005080400.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.451
+!MESSAGE Could not install bundle plugins/javax.mail_1.4.0.v201005080615.jar   Bundle "javax.mail" version "1.4.0.v201005080615" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.mail_1.4.0.v201005080615.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.453
+!MESSAGE Could not install bundle plugins/javax.persistence_2.1.0.v201304241213.jar   Bundle "javax.persistence" version "2.1.0.v201304241213" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.persistence_2.1.0.v201304241213.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.455
+!MESSAGE Could not install bundle plugins/javax.servlet.jsp_2.2.0.v201112011158.jar   Bundle "javax.servlet.jsp" version "2.2.0.v201112011158" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.servlet.jsp_2.2.0.v201112011158.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.457
+!MESSAGE Could not install bundle plugins/javax.servlet_3.0.0.v201112011016.jar   Bundle "javax.servlet" version "3.0.0.v201112011016" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.servlet_3.0.0.v201112011016.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.459
+!MESSAGE Could not install bundle plugins/javax.wsdl_1.5.1.v201012040544.jar   Bundle "javax.wsdl" version "1.5.1.v201012040544" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.wsdl_1.5.1.v201012040544.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.460
+!MESSAGE Could not install bundle plugins/javax.wsdl_1.6.2.v201012040545.jar   Bundle "javax.wsdl" version "1.6.2.v201012040545" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.wsdl_1.6.2.v201012040545.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.462
+!MESSAGE Could not install bundle plugins/javax.xml.bind_2.1.9.v201005080401.jar   Bundle "javax.xml.bind" version "2.1.9.v201005080401" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.xml.bind_2.1.9.v201005080401.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.464
+!MESSAGE Could not install bundle plugins/javax.xml.rpc_1.1.0.v201209140446/   Bundle "javax.xml.rpc" version "1.1.0.v201209140446" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.xml.rpc_1.1.0.v201209140446/
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.466
+!MESSAGE Could not install bundle plugins/javax.xml.soap_1.2.0.v201005080501/   Bundle "javax.xml.soap" version "1.2.0.v201005080501" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.xml.soap_1.2.0.v201005080501/
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.468
+!MESSAGE Could not install bundle plugins/javax.xml.stream_1.0.1.v201004272200.jar   Bundle "javax.xml.stream" version "1.0.1.v201004272200" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.xml.stream_1.0.1.v201004272200.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.469
+!MESSAGE Could not install bundle plugins/javax.xml.ws_2.1.0.v200902101523.jar   Bundle "javax.xml.ws" version "2.1.0.v200902101523" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.xml.ws_2.1.0.v200902101523.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.471
+!MESSAGE Could not install bundle plugins/javax.xml_1.3.4.v201005080400.jar   Bundle "javax.xml" version "1.3.4.v201005080400" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/javax.xml_1.3.4.v201005080400.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.473
+!MESSAGE Could not install bundle plugins/java_cup.runtime_0.10.0.v201005080400.jar   Bundle "java_cup.runtime" version "0.10.0.v201005080400" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/java_cup.runtime_0.10.0.v201005080400.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.475
+!MESSAGE Could not install bundle plugins/net.sourceforge.lpg.lpgjavaruntime_1.1.0.v201004271650.jar   Bundle "net.sourceforge.lpg.lpgjavaruntime" version "1.1.0.v201004271650" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/net.sourceforge.lpg.lpgjavaruntime_1.1.0.v201004271650.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.477
+!MESSAGE Could not install bundle plugins/net.sourceforge.vrapper.core_0.40.0.jar   Bundle "net.sourceforge.vrapper.core" version "0.40.0" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/net.sourceforge.vrapper.core_0.40.0.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.479
+!MESSAGE Could not install bundle plugins/net.sourceforge.vrapper.eclipse_0.40.0.jar   Bundle "net.sourceforge.vrapper.eclipse" version "0.40.0" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/net.sourceforge.vrapper.eclipse_0.40.0.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.481
+!MESSAGE Could not install bundle plugins/org.apache.ant_1.8.4.v201303080030/   Bundle "org.apache.ant" version "1.8.4.v201303080030" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/org.apache.ant_1.8.4.v201303080030/
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.482
+!MESSAGE Could not install bundle plugins/org.apache.axis_1.4.0.v201005080400/   Bundle "org.apache.axis" version "1.4.0.v201005080400" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/org.apache.axis_1.4.0.v201005080400/
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.485
+!MESSAGE Could not install bundle plugins/org.apache.batik.css_1.6.0.v201011041432.jar   Bundle "org.apache.batik.css" version "1.6.0.v201011041432" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/org.apache.batik.css_1.6.0.v201011041432.jar
+
+!ENTRY org.eclipse.update.configurator 4 0 2014-10-02 16:10:41.486
+!MESSAGE Could not install bundle plugins/org.apache.batik.util.gui_1.6.0.v201011041432.jar   Bundle "org.apache.batik.util.gui" version "1.6.0.v201011041432" has already been installed from: reference:file:/C:/Users/labry/Downloads/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/org.apache.batik.util.gui_1.6.0.v201011041432.jar

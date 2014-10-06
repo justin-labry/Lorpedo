@@ -75,9 +75,9 @@ public class Main implements Runnable {
 		
 		//Module Initialization
 		handlers = new ArrayList<OFHandler>();
-		PacketDumpManager packetDumpManager = new PacketDumpManager();
+		//PacketDumpManager packetDumpManager = new PacketDumpManager();
 		
-		handlers.add(packetDumpManager);
+		//handlers.add(packetDumpManager);
 	}
 	
 	public void add(OFHandler handler) {

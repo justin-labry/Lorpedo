@@ -306,6 +306,6 @@ public class LinkDiscoveryManager implements OFHandler {
 			}
 		}
 
-		return false;
+		return true;
 	}
 }

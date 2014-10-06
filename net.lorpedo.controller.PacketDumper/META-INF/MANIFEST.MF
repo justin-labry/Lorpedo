@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PacketDumper
+Bundle-SymbolicName: net.lorpedo.controller.PacketDumper
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: net.lorpedo.controller.packetdumper.Activator
+Require-Bundle: net.lorpedo.controller.Core;bundle-version="1.0.0",
+ org.openflow;bundle-version="1.0.3",
+ org.eclipse.osgi;bundle-version="3.9.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy

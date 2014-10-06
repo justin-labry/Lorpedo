@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;openflowj/build.properties&apos;" deleteContents="false" description="Delete resource &apos;openflowj/build.properties&apos;" element1="/openflowj/build.properties" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1412232234652"/>
+</session>

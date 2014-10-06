@@ -101,8 +101,6 @@ public class MacLearningManager implements OFHandler {
 			flowMod.setActions(Arrays.asList((OFAction) new OFActionOutput(outPort.getPort(), (short) 0xffff)));
 			flowMod.setLength((short) (OFFlowMod.MINIMUM_LENGTH + OFActionOutput.MINIMUM_LENGTH));
 			// end of torpedo mac learning //
-			
-
 			 
 			outs.add(flowMod);
 		}

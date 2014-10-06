@@ -22,7 +22,7 @@ public class Activator implements BundleActivator {
 		linkDiscoveryManager = new LinkDiscoveryManager();
 		
 		Main.getInstance().add(0, macLearningManager);
-		Main.getInstance().add(linkDiscoveryManager);
+		Main.getInstance().add(1, linkDiscoveryManager);
 		
 	}
 	

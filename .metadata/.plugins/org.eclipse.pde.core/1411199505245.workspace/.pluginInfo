@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="857" class="net.lorpedo.controller.core.Activator" localization="OSGI-INF/l10n/bundle" name="Core" project="net.lorpedo.controller.Core">
+		<library name="."/>
+		<library name="lib/openflowj.jar"/>
+	</bundle>
+	<bundle bundleID="856" class="net.lorpedo.controller.maclearning.Activator" localization="OSGI-INF/l10n/bundle" name="MacLearning" project="net.lorpedo.controller.MacLearning"/>
+	<bundle bundleID="855" localization="OSGI-INF/l10n/bundle" name="OpenFlowJ" project="openflowj"/>
+</map>
