@@ -24,7 +24,7 @@ import org.openflow.protocol.OFPhysicalPort;
 import org.openflow.protocol.OFSetConfig;
 import org.openflow.protocol.factory.BasicFactory;
 
-public class Main implements Runnable {
+public class Main implements Runnable { // change to OFProtocol???
 	
 	private static Main instance;
 	

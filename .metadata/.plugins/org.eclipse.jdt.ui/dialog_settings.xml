@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item value="500" key="CallHierarchyViewPart.ratio3"/>
+	<item value="500" key="CallHierarchyViewPart.ratio1"/>
+	<item value="3" key="CallHierarchyViewPart.orientation"/>
+	<item value="1" key="SearchScopeActionGroup.search_scope_type"/>
+	<item value="2" key="CallHierarchyViewPart.field_mode"/>
+	<item value="0" key="CallHierarchyViewPart.call_mode"/>
+	<list key="SearchScopeActionGroup.working_set">
+	</list>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="455" key="DIALOG_Y_ORIGIN"/>
+			<item value="988" key="DIALOG_X_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item value="true" key="group_libraries"/>
 		<item value="false" key="linkWithEditor"/>
@@ -11,6 +30,37 @@
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>
+	<section name="JarPackageWizard">
+		<item value="false" key="JarPackageWizardPage.INCLUDE_DIRECTORY_ENTRIES"/>
+		<item value="true" key="JarManifestWizardPage.GENERATE_MANIFEST"/>
+		<item value="false" key="JarManifestWizardPage.REUSE_MANIFEST"/>
+		<item value="false" key="JarPackageWizardPage.REFACTORINGS"/>
+		<item value="true" key="jarOptionsWizardPage.EXPORT_WARNINGS"/>
+		<item value="false" key="JarManifestWizardPage.SEAL_JAR"/>
+		<item value="" key="JarManifestWizardPage.MANIFEST_LOCATION"/>
+		<item value="false" key="JarPackageWizardPage.OVERWRITE"/>
+		<item value="true" key="jarOptionsWizardPage.EXPORT_ERRORS"/>
+		<item value="true" key="JarPackageWizardPage.EXPORT_CLASS_FILES"/>
+		<item value="false" key="jarOptionsWizardPage.SAVE_DESCRIPTION"/>
+		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
+		<item value="false" key="JarPackageWizardPage.EXPORT_JAVA_FILES"/>
+		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
+		<item value="true" key="JarPackageWizardPage.COMPRESS"/>
+		<item value="true" key="jarOptionsWizardPage.BUILD_IF_NEEDED"/>
+		<item value="false" key="jarOptionsWizardPage.STORE_USE_SRC_FOLDERS"/>
+		<item value="" key="jarOptionsWizardPage.DESCRIPTION_LOCATION"/>
+		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="E:\[ETRI]\Java\workspace_lorpedo\plugins\net.lorpedo.controller.Core.jar"/>
+		</list>
+	</section>
+	<section name="SearchInDialog">
+		<item value="true" key="SearchInJRE"/>
+		<item value="true" key="SearchInProjects"/>
+		<item value="true" key="SearchInAppLibs"/>
+		<item value="true" key="SearchInSources"/>
+	</section>
 	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="CallHierarchySearchScope">
 	</section>
 </section>

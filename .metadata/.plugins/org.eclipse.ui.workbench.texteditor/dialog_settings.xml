@@ -13,8 +13,9 @@
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="slf4j" key="selection"/>
+		<item value="MacLearning" key="selection"/>
 		<list key="findhistory">
+			<item value="MacLearning"/>
 			<item value="slf4j"/>
 		</list>
 		<list key="replacehistory">
